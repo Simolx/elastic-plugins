@@ -1,0 +1,2 @@
+# elastic-plugins
+elasticsearch plugins
